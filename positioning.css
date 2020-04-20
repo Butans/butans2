@@ -1,0 +1,15 @@
+body{
+    width: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #665544;
+}
+h1 {
+    background-color: #cfefef;
+    padding: 10px;
+}
+p.pag {
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    width: 250px;
+}

@@ -5,10 +5,9 @@ body {
     background-color: #f8f8f8;
 }
 li {
-    list-style-image: url(image/muurikka\ _2.png);
-    padding: 30px;
-    margin: 30px;
-    line-height: 1.6em;
+    padding: 0px;
+    margin: 0px;
+    line-height: 1.9em;
 }
 img {
     width: 10%;
